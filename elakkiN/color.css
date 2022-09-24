@@ -1,0 +1,44 @@
+.card{
+    text-align: center;
+    border: solid;
+    height: 700px;
+    width: 600px;
+}
+.a{
+    border-radius: 20px;
+    padding: 20px;
+    background-color: aliceblue;
+}
+.b{
+    border-radius: 20px;
+    padding: 20px;
+    background-color: green
+}
+
+.c{
+    border-radius: 20px;
+    padding: 20px;
+    background-color: aquamarine
+}
+
+.d{
+    border-radius: 20px;
+    padding: 20px;
+    background-color: palevioletred
+}
+.a2{
+    border: solid;
+    height: 60px;
+    width: auto;
+    margin-top: 25px;
+    border-radius: 10px;
+    color: white;
+    background-color: black;
+    padding: 15px;
+}
+.sp{
+    color: aqua;
+}
+h1{
+    margin-top: 180px;
+}

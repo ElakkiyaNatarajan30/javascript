@@ -1,0 +1,11 @@
+let a=document.getElementById("card");
+a.classList.add("text-center","bg-white","p-5");
+let b=document.createElement("input");
+b.type="checkbox";
+b.id="const";
+a.appendChild(b);
+let la=document.createElement("label");
+la.textContent="Click Me!";
+la.style.color="black";
+la.style.marginLeft="10px";
+a.appendChild(la);
